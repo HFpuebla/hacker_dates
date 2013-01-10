@@ -1,0 +1,14 @@
+{
+    "name": "handfpuebla/hackerdates",
+    "description": "Hacker Dates",
+    "license": "MIT",
+    "keywords": [
+        "calendar",
+        "events"
+    ],
+    "homepage": "http://www.hackerdates.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    }
+}
